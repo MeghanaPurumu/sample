@@ -1,5 +1,5 @@
 num=int(input("enter the length of fibonacci series"))
-
+print("enter n1 and n2 values")
 n1 = 0
 n2 = 1
 print("the fibonacci series of length", num)
